@@ -1,4 +1,4 @@
-# Company Website
+# Just Eat It
 
 * Addison Verger
 * Erika Aguirre
